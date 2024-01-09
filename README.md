@@ -2,7 +2,7 @@
   
 # (외주)JBListen 전북 설문조사 데모 앱 제작
 
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/e6c9319d-6282-4782-bb80-35dbde1677a5" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/4515a9b0-d271-4485-8047-e31bf2f9270c" width="100%" height="100%">
 
 <h2>프로젝트 소개</h2>
 <h4>JBListen 전북 설문조사 데모 앱 제작</h4>
@@ -18,8 +18,8 @@ Unity3D
 
 <h2>기여도</h2>
 <h4>UI 디자인 컨텐츠 배치</h4><br>
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/14540255-e70c-483c-bce2-d5610d81b6b3" width="100%" height="100%">
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/149a78ee-4e5d-416c-b63b-207f21370f2d" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/83afca21-0013-40e9-945f-2d163d43f7ec" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/b0da7ea6-d4e4-4781-96f9-52210ce30357" width="100%" height="100%">
 
 <li>로그인</li>
 <li>회원가입</li>
